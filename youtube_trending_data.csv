@@ -1,0 +1,301 @@
+video_id,title,category,region,views,likes,comments,duration_min,publish_hour,publish_day,trending_score,engagement_rate,like_ratio,comment_ratio,performance,time_of_day
+VID0001,Music Concert 1 - 2024,Music,India,30397456,3767727,1646891,16,0,Thursday,51,17.81,12.39,5.42,Trending,Night
+VID0002,Gaming Review 2 - 2024,Gaming,UK,3646775,181138,31222,44,11,Sunday,36,5.82,4.97,0.86,Viral,Morning
+VID0003,Music Cover 3 - 2024,Music,India,4040477,503048,65416,25,8,Monday,90,14.07,12.45,1.62,Viral,Morning
+VID0004,Technology Tutorial 4 - 2024,Technology,Japan,763363,81430,32233,27,11,Saturday,88,14.89,10.67,4.22,High,Morning
+VID0005,Music Cover 5 - 2024,Music,Japan,2211341,333586,25739,22,2,Tuesday,49,16.25,15.09,1.16,Viral,Night
+VID0006,Music Remix 6 - 2024,Music,Germany,19402480,3428189,343642,9,4,Wednesday,78,19.44,17.67,1.77,Trending,Night
+VID0007,Education Explained 7 - 2024,Education,US,3282015,436582,104672,40,19,Wednesday,100,16.49,13.3,3.19,Viral,Evening
+VID0008,Education Tips 8 - 2024,Education,Canada,4539935,590681,83748,36,6,Saturday,94,14.86,13.01,1.84,Viral,Night
+VID0009,Education Course 9 - 2024,Education,Japan,2260516,165475,74952,29,7,Monday,59,10.64,7.32,3.32,Viral,Morning
+VID0010,Technology Unboxing 10 - 2024,Technology,India,3309511,410483,98010,43,7,Tuesday,4,15.36,12.4,2.96,Viral,Morning
+VID0011,Travel Vlog 11 - 2024,Travel,France,44473890,4387766,683356,45,2,Sunday,96,11.4,9.87,1.54,Trending,Night
+VID0012,Entertainment Compilation 12 - 2024,Entertainment,UK,866098,36145,3932,21,5,Sunday,80,4.63,4.17,0.45,High,Night
+VID0013,Gaming Highlights 13 - 2024,Gaming,Germany,1533544,99376,33247,24,16,Saturday,11,8.65,6.48,2.17,Viral,Afternoon
+VID0014,Fitness Workout 14 - 2024,Fitness,Canada,1510866,66168,11231,15,18,Sunday,10,5.12,4.38,0.74,Viral,Afternoon
+VID0015,Fitness Diet 15 - 2024,Fitness,France,923499,97345,52479,7,5,Tuesday,82,16.22,10.54,5.68,High,Night
+VID0016,Cooking Baking 16 - 2024,Cooking,Australia,3171995,207763,149314,21,1,Tuesday,32,11.26,6.55,4.71,Viral,Night
+VID0017,Education Learn 17 - 2024,Education,Australia,2022358,88958,49815,17,17,Tuesday,89,6.86,4.4,2.46,Viral,Afternoon
+VID0018,News Coverage 18 - 2024,News,Japan,40989585,6662949,1797781,39,9,Thursday,87,20.64,16.26,4.39,Trending,Morning
+VID0019,Education Course 19 - 2024,Education,France,53062763,2863814,2634561,18,3,Wednesday,59,10.36,5.4,4.96,Trending,Night
+VID0020,Gaming Highlights 20 - 2024,Gaming,Australia,4666900,179949,267557,41,2,Sunday,53,9.59,3.86,5.73,Viral,Night
+VID0021,Music Song 21 - 2024,Music,Germany,589227,61801,16675,16,19,Thursday,68,13.32,10.49,2.83,High,Evening
+VID0022,Lifestyle Tips 22 - 2024,Lifestyle,US,1541685,56532,23802,26,3,Monday,33,5.21,3.67,1.54,Viral,Night
+VID0023,Education Tips 23 - 2024,Education,Brazil,33233564,1458743,427054,41,6,Sunday,7,5.67,4.39,1.29,Trending,Night
+VID0024,Technology Tutorial 24 - 2024,Technology,US,4492564,312445,140684,42,4,Wednesday,32,10.09,6.95,3.13,Viral,Night
+VID0025,Fitness Exercise 25 - 2024,Fitness,South Korea,2315976,170306,97023,14,18,Saturday,53,11.54,7.35,4.19,Viral,Afternoon
+VID0026,Lifestyle Tips 26 - 2024,Lifestyle,Japan,2534395,384639,102355,9,12,Tuesday,18,19.22,15.18,4.04,Viral,Morning
+VID0027,Gaming Walkthrough 27 - 2024,Gaming,India,42418089,5730034,1950750,4,23,Saturday,93,18.11,13.51,4.6,Trending,Evening
+VID0028,Lifestyle Vlog 28 - 2024,Lifestyle,South Korea,3002345,515703,173899,9,8,Wednesday,26,22.97,17.18,5.79,Viral,Morning
+VID0029,Technology News 29 - 2024,Technology,Canada,4772502,204519,244846,35,4,Thursday,75,9.42,4.29,5.13,Viral,Night
+VID0030,Lifestyle Tips 30 - 2024,Lifestyle,Germany,1890659,110780,10251,35,4,Thursday,6,6.4,5.86,0.54,Viral,Night
+VID0031,Lifestyle Hacks 31 - 2024,Lifestyle,France,53084688,5978350,860824,17,12,Monday,12,12.88,11.26,1.62,Trending,Morning
+VID0032,News Analysis 32 - 2024,News,Germany,3917049,664409,223328,20,15,Thursday,99,22.66,16.96,5.7,Viral,Afternoon
+VID0033,Travel Trip 33 - 2024,Travel,India,21799552,2283459,1140656,38,11,Saturday,90,15.71,10.47,5.23,Trending,Morning
+VID0034,Entertainment Challenge 34 - 2024,Entertainment,Brazil,48315952,5274481,719173,22,11,Sunday,75,12.41,10.92,1.49,Trending,Morning
+VID0035,News Update 35 - 2024,News,US,1815956,165463,21592,3,3,Wednesday,94,10.3,9.11,1.19,Viral,Night
+VID0036,Music Concert 36 - 2024,Music,US,28979349,1652575,1078317,45,4,Tuesday,10,9.42,5.7,3.72,Trending,Night
+VID0037,Entertainment Funny 37 - 2024,Entertainment,France,2843702,205689,35631,27,15,Tuesday,90,8.49,7.23,1.25,Viral,Afternoon
+VID0038,Music Cover 38 - 2024,Music,India,4486250,237368,99008,36,14,Thursday,71,7.5,5.29,2.21,Viral,Afternoon
+VID0039,Travel Guide 39 - 2024,Travel,South Korea,25413078,4256743,326732,31,16,Monday,92,18.04,16.75,1.29,Trending,Afternoon
+VID0040,Fitness Exercise 40 - 2024,Fitness,India,1681368,292977,71508,25,22,Saturday,90,21.68,17.42,4.25,Viral,Evening
+VID0041,Music Song 41 - 2024,Music,UK,4451459,643578,127757,3,6,Monday,38,17.33,14.46,2.87,Viral,Night
+VID0042,News Update 42 - 2024,News,Brazil,31875809,2056177,1027584,13,22,Saturday,36,9.67,6.45,3.22,Trending,Evening
+VID0043,Fitness Workout 43 - 2024,Fitness,South Korea,6953630,579525,282372,22,4,Saturday,73,12.39,8.33,4.06,Trending,Night
+VID0044,Gaming Walkthrough 44 - 2024,Gaming,UK,4792642,385519,29912,7,1,Sunday,80,8.67,8.04,0.62,Viral,Night
+VID0045,Travel Adventure 45 - 2024,Travel,Australia,1764341,133180,64313,34,0,Wednesday,48,11.19,7.55,3.65,Viral,Night
+VID0046,News Report 46 - 2024,News,France,33179952,2127422,448883,29,4,Friday,11,7.76,6.41,1.35,Trending,Night
+VID0047,Travel Vlog 47 - 2024,Travel,Japan,478919,63704,16029,27,11,Saturday,2,16.65,13.3,3.35,Medium,Morning
+VID0048,Music Performance 48 - 2024,Music,Brazil,4328401,372052,55429,25,17,Saturday,81,9.88,8.6,1.28,Viral,Afternoon
+VID0049,Entertainment Prank 49 - 2024,Entertainment,Germany,929543,114750,41974,39,15,Wednesday,72,16.86,12.34,4.52,High,Afternoon
+VID0050,Gaming Walkthrough 50 - 2024,Gaming,UK,2751314,162099,142449,45,3,Friday,68,11.07,5.89,5.18,Viral,Night
+VID0051,Fitness Training 51 - 2024,Fitness,US,720656,99850,11306,13,7,Monday,98,15.42,13.86,1.57,High,Morning
+VID0052,Travel Travel 52 - 2024,Travel,France,13195299,820039,727178,3,7,Sunday,52,11.73,6.21,5.51,Trending,Morning
+VID0053,Technology Tutorial 53 - 2024,Technology,Germany,696273,125033,21022,14,11,Friday,48,20.98,17.96,3.02,High,Morning
+VID0054,Travel Adventure 54 - 2024,Travel,Japan,29851640,3453015,128159,11,12,Thursday,72,12.0,11.57,0.43,Trending,Morning
+VID0055,Music Song 55 - 2024,Music,Germany,23896626,1745968,1037288,33,20,Sunday,42,11.65,7.31,4.34,Trending,Evening
+VID0056,Lifestyle Vlog 56 - 2024,Lifestyle,Germany,4117725,360672,152495,44,20,Wednesday,36,12.46,8.76,3.7,Viral,Evening
+VID0057,Education Course 57 - 2024,Education,UK,2530448,217538,138851,39,7,Tuesday,46,14.08,8.6,5.49,Viral,Morning
+VID0058,Cooking Cooking 58 - 2024,Cooking,US,1094909,71340,36900,26,3,Wednesday,31,9.89,6.52,3.37,Viral,Night
+VID0059,Fitness Training 59 - 2024,Fitness,US,1615530,279678,50553,20,4,Thursday,75,20.44,17.31,3.13,Viral,Night
+VID0060,Travel Adventure 60 - 2024,Travel,Canada,5027504,563444,188135,20,20,Wednesday,13,14.95,11.21,3.74,Trending,Evening
+VID0061,Entertainment Funny 61 - 2024,Entertainment,India,4754965,163593,165092,8,16,Friday,92,6.91,3.44,3.47,Viral,Afternoon
+VID0062,Fitness Fitness 62 - 2024,Fitness,Germany,1759188,287401,16576,39,14,Tuesday,35,17.28,16.34,0.94,Viral,Afternoon
+VID0063,Cooking Cooking 63 - 2024,Cooking,Australia,1830822,328203,40664,25,8,Wednesday,9,20.15,17.93,2.22,Viral,Morning
+VID0064,Entertainment Reaction 64 - 2024,Entertainment,Japan,3639276,340606,29122,24,23,Friday,65,10.16,9.36,0.8,Viral,Evening
+VID0065,Fitness Diet 65 - 2024,Fitness,US,66336030,3739056,3315742,43,0,Saturday,85,10.63,5.64,5.0,Trending,Night
+VID0066,Music Performance 66 - 2024,Music,UK,3306902,251535,103168,36,18,Friday,81,10.73,7.61,3.12,Viral,Afternoon
+VID0067,Technology Tutorial 67 - 2024,Technology,US,460606,22024,25009,20,10,Sunday,93,10.21,4.78,5.43,Medium,Morning
+VID0068,Fitness Exercise 68 - 2024,Fitness,Australia,11506719,823117,158389,11,6,Friday,22,8.53,7.15,1.38,Trending,Night
+VID0069,News Update 69 - 2024,News,US,4199536,332321,197077,34,23,Wednesday,33,12.61,7.91,4.69,Viral,Evening
+VID0070,Entertainment Challenge 70 - 2024,Entertainment,Canada,4711892,728489,61968,44,10,Sunday,43,16.78,15.46,1.32,Viral,Morning
+VID0071,Travel Travel 71 - 2024,Travel,US,57380570,8372554,374598,36,3,Wednesday,68,15.24,14.59,0.65,Trending,Night
+VID0072,Technology Unboxing 72 - 2024,Technology,Brazil,197867,17929,1343,8,23,Wednesday,86,9.74,9.06,0.68,Medium,Evening
+VID0073,Travel Trip 73 - 2024,Travel,Japan,2392239,270795,42755,38,10,Monday,9,13.11,11.32,1.79,Viral,Morning
+VID0074,Travel Guide 74 - 2024,Travel,Japan,408248,37205,12028,17,22,Monday,31,12.06,9.11,2.95,Medium,Evening
+VID0075,Cooking Recipe 75 - 2024,Cooking,Canada,321535,21279,14032,14,4,Sunday,70,10.98,6.62,4.36,Medium,Night
+VID0076,Music Remix 76 - 2024,Music,Canada,3934608,245700,52355,19,3,Saturday,95,7.58,6.24,1.33,Viral,Night
+VID0077,Music Concert 77 - 2024,Music,Australia,2658705,218252,48029,29,6,Thursday,80,10.02,8.21,1.81,Viral,Night
+VID0078,Education Guide 78 - 2024,Education,Germany,2110438,105194,88878,34,20,Saturday,95,9.2,4.98,4.21,Viral,Evening
+VID0079,Music Cover 79 - 2024,Music,Germany,7090173,775395,403544,24,2,Friday,89,16.63,10.94,5.69,Trending,Night
+VID0080,Cooking Kitchen 80 - 2024,Cooking,South Korea,2287709,246503,71843,8,14,Saturday,46,13.92,10.78,3.14,Viral,Afternoon
+VID0081,Gaming Stream 81 - 2024,Gaming,Germany,3472095,484803,85117,37,22,Sunday,89,16.41,13.96,2.45,Viral,Evening
+VID0082,Gaming Stream 82 - 2024,Gaming,India,10330770,1698476,366252,32,4,Thursday,48,19.99,16.44,3.55,Trending,Night
+VID0083,Gaming Review 83 - 2024,Gaming,France,701007,92429,2866,18,2,Thursday,65,13.59,13.19,0.41,High,Night
+VID0084,Cooking Meal Prep 84 - 2024,Cooking,Australia,11404580,1303900,255174,31,5,Wednesday,26,13.67,11.43,2.24,Trending,Night
+VID0085,Travel Adventure 85 - 2024,Travel,Japan,1055715,86902,41507,18,22,Tuesday,25,12.16,8.23,3.93,Viral,Evening
+VID0086,Fitness Workout 86 - 2024,Fitness,Germany,4545472,485322,158292,23,21,Saturday,64,14.16,10.68,3.48,Viral,Evening
+VID0087,Cooking Kitchen 87 - 2024,Cooking,Brazil,1247395,66256,14892,39,11,Sunday,60,6.51,5.31,1.19,Viral,Morning
+VID0088,Travel Guide 88 - 2024,Travel,South Korea,441656,21241,3819,18,8,Friday,72,5.67,4.81,0.86,Medium,Morning
+VID0089,Travel Adventure 89 - 2024,Travel,Canada,2327246,151756,136031,32,13,Thursday,38,12.37,6.52,5.85,Viral,Afternoon
+VID0090,Music Performance 90 - 2024,Music,Germany,3837428,300432,32767,3,3,Wednesday,80,8.68,7.83,0.85,Viral,Night
+VID0091,News Analysis 91 - 2024,News,Brazil,37915920,6740409,79866,16,5,Wednesday,80,17.99,17.78,0.21,Trending,Night
+VID0092,Lifestyle Vlog 92 - 2024,Lifestyle,UK,3710438,469335,184035,31,12,Tuesday,80,17.61,12.65,4.96,Viral,Morning
+VID0093,News Update 93 - 2024,News,India,3287842,149628,99775,36,9,Friday,19,7.59,4.55,3.03,Viral,Morning
+VID0094,Music Song 94 - 2024,Music,Australia,13498147,2343488,131917,20,7,Friday,28,18.34,17.36,0.98,Trending,Morning
+VID0095,Travel Travel 95 - 2024,Travel,US,4502670,670548,110819,15,9,Sunday,46,17.35,14.89,2.46,Viral,Morning
+VID0096,Technology Unboxing 96 - 2024,Technology,UK,4937591,747861,220820,3,6,Friday,7,19.62,15.15,4.47,Viral,Night
+VID0097,Education Course 97 - 2024,Education,France,51567020,5526897,1903468,36,22,Saturday,16,14.41,10.72,3.69,Trending,Evening
+VID0098,Entertainment Compilation 98 - 2024,Entertainment,Brazil,4996327,439542,88454,17,11,Friday,91,10.57,8.8,1.77,Viral,Morning
+VID0099,Fitness Diet 99 - 2024,Fitness,UK,152500,9595,7329,44,14,Sunday,15,11.1,6.29,4.81,Medium,Afternoon
+VID0100,Entertainment Prank 100 - 2024,Entertainment,Brazil,1855315,139858,51726,36,23,Tuesday,82,10.33,7.54,2.79,Viral,Evening
+VID0101,Lifestyle Hacks 101 - 2024,Lifestyle,Australia,2869316,317915,98875,43,11,Friday,97,14.53,11.08,3.45,Viral,Morning
+VID0102,News Report 102 - 2024,News,UK,478290,62155,26786,26,5,Tuesday,91,18.6,13.0,5.6,Medium,Night
+VID0103,News Breaking 103 - 2024,News,France,1227686,113742,33668,33,8,Saturday,4,12.01,9.26,2.74,Viral,Morning
+VID0104,Technology Unboxing 104 - 2024,Technology,Japan,32443020,4251286,1584486,16,6,Sunday,4,17.99,13.1,4.88,Trending,Night
+VID0105,News Analysis 105 - 2024,News,Australia,2907134,122563,68647,45,13,Monday,43,6.58,4.22,2.36,Viral,Afternoon
+VID0106,Education Guide 106 - 2024,Education,Canada,3263942,138448,124473,12,1,Thursday,92,8.06,4.24,3.81,Viral,Night
+VID0107,Education Course 107 - 2024,Education,UK,3930209,217431,133325,11,16,Wednesday,39,8.92,5.53,3.39,Viral,Afternoon
+VID0108,Cooking Cooking 108 - 2024,Cooking,UK,17142970,1901209,288696,41,18,Saturday,96,12.77,11.09,1.68,Trending,Afternoon
+VID0109,Cooking Kitchen 109 - 2024,Cooking,India,4593839,290036,185324,6,10,Tuesday,78,10.35,6.31,4.03,Viral,Morning
+VID0110,Cooking Recipe 110 - 2024,Cooking,UK,78730825,4452051,2888318,14,7,Sunday,56,9.32,5.65,3.67,Trending,Morning
+VID0111,News Analysis 111 - 2024,News,Germany,392300,42684,5991,21,17,Tuesday,69,12.41,10.88,1.53,Medium,Afternoon
+VID0112,Cooking Recipe 112 - 2024,Cooking,US,5147286,481527,28715,33,20,Tuesday,41,9.91,9.35,0.56,Trending,Evening
+VID0113,Lifestyle Tips 113 - 2024,Lifestyle,Canada,4638789,500406,147171,16,13,Saturday,87,13.96,10.79,3.17,Viral,Afternoon
+VID0114,Travel Guide 114 - 2024,Travel,Brazil,1715827,153351,22988,13,19,Friday,79,10.28,8.94,1.34,Viral,Evening
+VID0115,Cooking Meal Prep 115 - 2024,Cooking,Australia,535147,36981,24954,16,15,Saturday,95,11.57,6.91,4.66,High,Afternoon
+VID0116,Technology Review 116 - 2024,Technology,Japan,1649800,98202,37937,8,6,Tuesday,43,8.25,5.95,2.3,Viral,Night
+VID0117,Cooking Recipe 117 - 2024,Cooking,UK,6197577,426416,66610,39,20,Monday,16,7.96,6.88,1.07,Trending,Evening
+VID0118,Fitness Training 118 - 2024,Fitness,Australia,3595592,264699,21309,32,5,Monday,23,7.95,7.36,0.59,Viral,Night
+VID0119,Music Performance 119 - 2024,Music,Japan,1059815,181060,24674,15,6,Wednesday,5,19.41,17.08,2.33,Viral,Night
+VID0120,Lifestyle Hacks 120 - 2024,Lifestyle,UK,4161852,609119,37589,35,6,Friday,75,15.54,14.64,0.9,Viral,Night
+VID0121,Travel Adventure 121 - 2024,Travel,UK,2642780,424410,99311,33,17,Sunday,16,19.82,16.06,3.76,Viral,Afternoon
+VID0122,Travel Trip 122 - 2024,Travel,Brazil,16138780,821404,600668,19,4,Wednesday,18,8.81,5.09,3.72,Trending,Night
+VID0123,Education Learn 123 - 2024,Education,France,125982,16152,1718,6,7,Wednesday,65,14.18,12.82,1.36,Medium,Morning
+VID0124,Fitness Diet 124 - 2024,Fitness,US,647755,64145,2615,8,14,Saturday,63,10.31,9.9,0.4,High,Afternoon
+VID0125,News Coverage 125 - 2024,News,Germany,4319159,570492,133527,38,0,Tuesday,36,16.3,13.21,3.09,Viral,Night
+VID0126,Travel Trip 126 - 2024,Travel,Brazil,2076404,295193,52533,16,17,Thursday,2,16.75,14.22,2.53,Viral,Afternoon
+VID0127,Entertainment Compilation 127 - 2024,Entertainment,Canada,2716612,367489,113382,33,20,Sunday,76,17.7,13.53,4.17,Viral,Evening
+VID0128,Travel Guide 128 - 2024,Travel,US,22256780,2544789,632275,35,21,Tuesday,38,14.27,11.43,2.84,Trending,Evening
+VID0129,Education Explained 129 - 2024,Education,US,4393691,406295,57575,19,6,Tuesday,42,10.56,9.25,1.31,Viral,Night
+VID0130,News Report 130 - 2024,News,Germany,54122317,6953062,1520475,26,4,Monday,38,15.66,12.85,2.81,Trending,Night
+VID0131,Lifestyle Routine 131 - 2024,Lifestyle,Japan,3871759,335163,32123,5,4,Sunday,76,9.49,8.66,0.83,Viral,Night
+VID0132,Travel Guide 132 - 2024,Travel,India,35668809,5911949,513717,17,8,Wednesday,51,18.01,16.57,1.44,Trending,Morning
+VID0133,Fitness Diet 133 - 2024,Fitness,UK,3730688,624270,47305,26,23,Wednesday,27,18.0,16.73,1.27,Viral,Evening
+VID0134,Education Learn 134 - 2024,Education,Brazil,17549580,1728221,715337,4,11,Wednesday,67,13.92,9.85,4.08,Trending,Morning
+VID0135,Travel Vlog 135 - 2024,Travel,UK,4306026,349177,147666,22,14,Thursday,55,11.54,8.11,3.43,Viral,Afternoon
+VID0136,Education Tips 136 - 2024,Education,Japan,3500210,612130,209023,41,22,Saturday,7,23.46,17.49,5.97,Viral,Evening
+VID0137,Education Guide 137 - 2024,Education,Germany,51738512,3886540,305271,42,8,Wednesday,70,8.1,7.51,0.59,Trending,Morning
+VID0138,Gaming Gameplay 138 - 2024,Gaming,UK,3157246,262137,179940,14,17,Monday,91,14.0,8.3,5.7,Viral,Afternoon
+VID0139,Entertainment Challenge 139 - 2024,Entertainment,France,3723994,470076,108096,23,7,Wednesday,27,15.53,12.62,2.9,Viral,Morning
+VID0140,Fitness Workout 140 - 2024,Fitness,Germany,662228,51861,30481,22,13,Sunday,96,12.43,7.83,4.6,High,Afternoon
+VID0141,Cooking Baking 141 - 2024,Cooking,France,4815065,570604,97174,20,17,Thursday,85,13.87,11.85,2.02,Viral,Afternoon
+VID0142,Technology News 142 - 2024,Technology,Brazil,14785520,939552,620810,36,16,Friday,3,10.55,6.35,4.2,Trending,Afternoon
+VID0143,Technology Comparison 143 - 2024,Technology,Germany,4039802,487507,185278,10,7,Monday,26,16.65,12.07,4.59,Viral,Morning
+VID0144,Technology Tutorial 144 - 2024,Technology,Canada,2867605,419605,165988,12,4,Wednesday,30,20.42,14.63,5.79,Viral,Night
+VID0145,Travel Trip 145 - 2024,Travel,India,3246172,294081,92965,37,6,Friday,98,11.92,9.06,2.86,Viral,Night
+VID0146,Music Song 146 - 2024,Music,South Korea,4378930,399808,148370,30,9,Thursday,35,12.52,9.13,3.39,Viral,Morning
+VID0147,Technology News 147 - 2024,Technology,Australia,3589972,185950,207027,22,14,Monday,19,10.95,5.18,5.77,Viral,Afternoon
+VID0148,News Breaking 148 - 2024,News,India,22681720,1125686,1160918,3,2,Saturday,4,10.08,4.96,5.12,Trending,Night
+VID0149,Cooking Recipe 149 - 2024,Cooking,UK,1881247,191364,31381,15,8,Thursday,14,11.84,10.17,1.67,Viral,Morning
+VID0150,Entertainment Prank 150 - 2024,Entertainment,UK,3957605,346102,228662,37,3,Thursday,95,14.52,8.75,5.78,Viral,Night
+VID0151,News Breaking 151 - 2024,News,South Korea,672380,85039,18016,29,21,Friday,21,15.33,12.65,2.68,High,Evening
+VID0152,Cooking Recipe 152 - 2024,Cooking,Brazil,47590604,2268315,1978821,43,18,Monday,19,8.92,4.77,4.16,Trending,Afternoon
+VID0153,Technology Review 153 - 2024,Technology,India,83306484,13740563,311426,9,9,Thursday,81,16.87,16.49,0.37,Trending,Morning
+VID0154,Entertainment Prank 154 - 2024,Entertainment,Canada,1867786,206661,83650,29,16,Saturday,97,15.54,11.06,4.48,Viral,Afternoon
+VID0155,Gaming Gameplay 155 - 2024,Gaming,US,1759576,284765,31793,20,17,Friday,8,17.99,16.18,1.81,Viral,Afternoon
+VID0156,Lifestyle Lifestyle 156 - 2024,Lifestyle,France,1159953,78861,4157,19,16,Tuesday,52,7.16,6.8,0.36,Viral,Afternoon
+VID0157,Entertainment Funny 157 - 2024,Entertainment,UK,5607309,162276,199331,3,21,Sunday,88,6.45,2.89,3.55,Trending,Evening
+VID0158,Music Song 158 - 2024,Music,Canada,1186600,80626,40641,41,14,Thursday,39,10.22,6.79,3.42,Viral,Afternoon
+VID0159,Gaming Stream 159 - 2024,Gaming,Canada,4131540,443221,13993,29,19,Thursday,93,11.07,10.73,0.34,Viral,Evening
+VID0160,Technology Unboxing 160 - 2024,Technology,France,2288204,336653,75767,22,1,Monday,71,18.02,14.71,3.31,Viral,Night
+VID0161,Gaming Walkthrough 161 - 2024,Gaming,India,16533570,2324127,284517,23,11,Thursday,75,15.78,14.06,1.72,Trending,Morning
+VID0162,Entertainment Funny 162 - 2024,Entertainment,US,2549253,159854,34970,5,12,Wednesday,33,7.64,6.27,1.37,Viral,Morning
+VID0163,Fitness Exercise 163 - 2024,Fitness,South Korea,4700839,280307,74897,11,0,Tuesday,64,7.56,5.96,1.59,Viral,Night
+VID0164,Travel Guide 164 - 2024,Travel,South Korea,4929211,517595,77768,27,23,Sunday,5,12.08,10.5,1.58,Viral,Evening
+VID0165,Technology Comparison 165 - 2024,Technology,UK,24981036,2775062,896515,16,12,Friday,10,14.7,11.11,3.59,Trending,Morning
+VID0166,Lifestyle Tips 166 - 2024,Lifestyle,Canada,61660669,5873942,1100053,11,21,Sunday,75,11.31,9.53,1.78,Trending,Evening
+VID0167,Travel Vlog 167 - 2024,Travel,France,3795411,485777,102666,42,12,Wednesday,96,15.5,12.8,2.71,Viral,Morning
+VID0168,Entertainment Funny 168 - 2024,Entertainment,UK,49035045,4936730,755356,24,14,Friday,54,11.61,10.07,1.54,Trending,Afternoon
+VID0169,Cooking Baking 169 - 2024,Cooking,Canada,42662178,7351318,2028655,17,2,Wednesday,99,21.99,17.23,4.76,Trending,Night
+VID0170,Entertainment Prank 170 - 2024,Entertainment,India,21185323,1584297,987864,26,3,Friday,30,12.14,7.48,4.66,Trending,Night
+VID0171,Cooking Kitchen 171 - 2024,Cooking,Australia,2600558,234340,149550,22,12,Wednesday,70,14.76,9.01,5.75,Viral,Morning
+VID0172,Music Performance 172 - 2024,Music,US,272573,22915,14766,43,23,Tuesday,27,13.82,8.41,5.42,Medium,Evening
+VID0173,Lifestyle Lifestyle 173 - 2024,Lifestyle,South Korea,1928213,268793,104822,30,9,Monday,22,19.38,13.94,5.44,Viral,Morning
+VID0174,Lifestyle Lifestyle 174 - 2024,Lifestyle,South Korea,4691522,395282,98431,39,9,Saturday,53,10.52,8.43,2.1,Viral,Morning
+VID0175,Gaming Gameplay 175 - 2024,Gaming,South Korea,3611002,300997,197348,42,5,Monday,75,13.8,8.34,5.47,Viral,Night
+VID0176,Technology Tutorial 176 - 2024,Technology,Germany,59769294,2595139,1683053,37,11,Wednesday,42,7.16,4.34,2.82,Trending,Morning
+VID0177,Technology News 177 - 2024,Technology,Canada,7343905,341776,377249,42,1,Wednesday,29,9.79,4.65,5.14,Trending,Night
+VID0178,Fitness Workout 178 - 2024,Fitness,US,873447,112056,38385,25,18,Monday,18,17.22,12.83,4.39,High,Afternoon
+VID0179,Cooking Recipe 179 - 2024,Cooking,Canada,5852774,748268,266515,44,18,Thursday,36,17.34,12.78,4.55,Trending,Afternoon
+VID0180,News Report 180 - 2024,News,Brazil,1471906,44280,37308,28,17,Friday,19,5.54,3.01,2.53,Viral,Afternoon
+VID0181,Lifestyle Tips 181 - 2024,Lifestyle,US,5382163,491558,125294,27,21,Saturday,15,11.46,9.13,2.33,Trending,Evening
+VID0182,Gaming Stream 182 - 2024,Gaming,Canada,20669290,2817394,361681,44,20,Wednesday,64,15.38,13.63,1.75,Trending,Evening
+VID0183,Education Explained 183 - 2024,Education,Brazil,2865041,314201,143171,10,4,Thursday,56,15.96,10.97,5.0,Viral,Night
+VID0184,Education Learn 184 - 2024,Education,France,3533992,286138,147972,36,6,Wednesday,64,12.28,8.1,4.19,Viral,Night
+VID0185,Entertainment Prank 185 - 2024,Entertainment,France,29505427,5231164,1325093,44,11,Monday,56,22.22,17.73,4.49,Trending,Morning
+VID0186,Cooking Meal Prep 186 - 2024,Cooking,Brazil,1093218,82866,52290,45,10,Monday,20,12.36,7.58,4.78,Viral,Morning
+VID0187,Travel Vlog 187 - 2024,Travel,India,4930186,265220,247411,17,9,Saturday,15,10.4,5.38,5.02,Viral,Morning
+VID0188,Cooking Meal Prep 188 - 2024,Cooking,Australia,2712234,170101,104468,44,17,Wednesday,93,10.12,6.27,3.85,Viral,Afternoon
+VID0189,Music Song 189 - 2024,Music,South Korea,43731415,3033908,527493,6,2,Tuesday,88,8.14,6.94,1.21,Trending,Night
+VID0190,News Coverage 190 - 2024,News,India,1164051,83027,30030,20,0,Thursday,80,9.71,7.13,2.58,Viral,Night
+VID0191,Gaming Walkthrough 191 - 2024,Gaming,India,530980,30040,24253,7,10,Tuesday,69,10.23,5.66,4.57,High,Morning
+VID0192,Fitness Training 192 - 2024,Fitness,Canada,3808372,204819,120122,43,13,Monday,82,8.53,5.38,3.15,Viral,Afternoon
+VID0193,Entertainment Challenge 193 - 2024,Entertainment,Brazil,13457843,849759,526452,22,0,Thursday,66,10.23,6.31,3.91,Trending,Night
+VID0194,Gaming Stream 194 - 2024,Gaming,Australia,3678522,526449,198325,30,4,Monday,40,19.7,14.31,5.39,Viral,Night
+VID0195,Lifestyle Tips 195 - 2024,Lifestyle,US,2060506,151763,72817,11,10,Tuesday,21,10.9,7.37,3.53,Viral,Morning
+VID0196,Travel Trip 196 - 2024,Travel,Brazil,2635711,134568,75364,7,13,Saturday,93,7.96,5.11,2.86,Viral,Afternoon
+VID0197,News Breaking 197 - 2024,News,Brazil,2468832,391731,24773,39,2,Wednesday,1,16.87,15.87,1.0,Viral,Night
+VID0198,Lifestyle Tips 198 - 2024,Lifestyle,UK,1386522,92588,28414,23,2,Tuesday,26,8.73,6.68,2.05,Viral,Night
+VID0199,Education Learn 199 - 2024,Education,France,6183573,275813,284847,37,20,Wednesday,5,9.07,4.46,4.61,Trending,Evening
+VID0200,Lifestyle Tips 200 - 2024,Lifestyle,UK,4222799,577105,159952,25,8,Wednesday,80,17.45,13.67,3.79,Viral,Morning
+VID0201,Technology Tutorial 201 - 2024,Technology,Germany,856904,37593,43850,26,10,Saturday,97,9.5,4.39,5.12,High,Morning
+VID0202,Entertainment Challenge 202 - 2024,Entertainment,Japan,35417889,2431320,761485,29,12,Thursday,94,9.01,6.86,2.15,Trending,Morning
+VID0203,Gaming Highlights 203 - 2024,Gaming,France,41601843,6538032,1696750,9,15,Tuesday,59,19.79,15.72,4.08,Trending,Afternoon
+VID0204,Cooking Kitchen 204 - 2024,Cooking,Japan,4795351,408182,11263,42,4,Friday,85,8.75,8.51,0.23,Viral,Night
+VID0205,Lifestyle Tips 205 - 2024,Lifestyle,Brazil,24372166,2945392,1070886,19,19,Saturday,83,16.48,12.09,4.39,Trending,Evening
+VID0206,Cooking Kitchen 206 - 2024,Cooking,France,769770,47789,14520,44,20,Monday,95,8.09,6.21,1.89,High,Evening
+VID0207,Education Learn 207 - 2024,Education,Japan,68219,10007,1178,45,5,Saturday,22,16.4,14.67,1.73,Low,Night
+VID0208,Music Song 208 - 2024,Music,India,4113022,189548,188896,14,10,Monday,46,9.2,4.61,4.59,Viral,Morning
+VID0209,Entertainment Compilation 209 - 2024,Entertainment,South Korea,107379051,14310556,3480008,32,19,Thursday,10,16.57,13.33,3.24,Trending,Evening
+VID0210,Music Remix 210 - 2024,Music,UK,18745554,1507058,488589,12,19,Tuesday,26,10.65,8.04,2.61,Trending,Evening
+VID0211,Fitness Fitness 211 - 2024,Fitness,US,4556903,751158,75192,19,17,Monday,18,18.13,16.48,1.65,Viral,Afternoon
+VID0212,Education Guide 212 - 2024,Education,Brazil,1927801,141296,67677,41,4,Monday,14,10.84,7.33,3.51,Viral,Night
+VID0213,News Update 213 - 2024,News,Canada,3173752,366143,23925,25,2,Saturday,22,12.29,11.54,0.75,Viral,Night
+VID0214,News Coverage 214 - 2024,News,Germany,7715976,654327,120317,37,23,Monday,30,10.04,8.48,1.56,Trending,Evening
+VID0215,News Report 215 - 2024,News,Japan,1261110,38871,17668,38,17,Thursday,17,4.48,3.08,1.4,Viral,Afternoon
+VID0216,Education Tips 216 - 2024,Education,Canada,726406,74074,33328,45,2,Tuesday,93,14.79,10.2,4.59,High,Night
+VID0217,News Breaking 217 - 2024,News,India,4978750,661348,179554,14,5,Tuesday,36,16.89,13.28,3.61,Viral,Night
+VID0218,Lifestyle Tips 218 - 2024,Lifestyle,Brazil,1111856,106733,65560,32,1,Friday,23,15.5,9.6,5.9,Viral,Night
+VID0219,Education Tips 219 - 2024,Education,India,53763958,5616668,1688452,17,15,Saturday,70,13.59,10.45,3.14,Trending,Afternoon
+VID0220,Music Remix 220 - 2024,Music,Brazil,849353,115290,37571,21,11,Friday,92,18.0,13.57,4.42,High,Morning
+VID0221,Education Course 221 - 2024,Education,Japan,1280183,118905,25365,36,1,Thursday,98,11.27,9.29,1.98,Viral,Night
+VID0222,Fitness Workout 222 - 2024,Fitness,US,1453002,112429,51872,12,7,Friday,13,11.31,7.74,3.57,Viral,Morning
+VID0223,Lifestyle Routine 223 - 2024,Lifestyle,Canada,1686463,141508,31535,20,9,Wednesday,24,10.26,8.39,1.87,Viral,Morning
+VID0224,Music Remix 224 - 2024,Music,Japan,3679117,479823,32839,44,3,Friday,17,13.93,13.04,0.89,Viral,Night
+VID0225,Technology Comparison 225 - 2024,Technology,UK,65328688,4930066,1230110,4,23,Wednesday,85,9.43,7.55,1.88,Trending,Evening
+VID0226,Technology Tutorial 226 - 2024,Technology,South Korea,2210806,83210,76074,44,18,Sunday,71,7.2,3.76,3.44,Viral,Afternoon
+VID0227,Entertainment Funny 227 - 2024,Entertainment,Canada,324705,10273,15890,24,4,Thursday,17,8.06,3.16,4.89,Medium,Night
+VID0228,Technology Comparison 228 - 2024,Technology,Canada,2002227,275500,30931,33,1,Saturday,3,15.3,13.76,1.54,Viral,Night
+VID0229,Lifestyle Tips 229 - 2024,Lifestyle,Germany,834092,87094,46436,12,2,Saturday,63,16.01,10.44,5.57,High,Night
+VID0230,Travel Guide 230 - 2024,Travel,US,4352469,301619,167471,34,8,Saturday,21,10.78,6.93,3.85,Viral,Morning
+VID0231,Music Cover 231 - 2024,Music,UK,832325,90899,49142,19,23,Wednesday,23,16.83,10.92,5.9,High,Evening
+VID0232,News Breaking 232 - 2024,News,Germany,42515010,5593276,1392684,42,22,Wednesday,18,16.43,13.16,3.28,Trending,Evening
+VID0233,Entertainment Compilation 233 - 2024,Entertainment,US,21963860,1975536,996217,5,15,Tuesday,64,13.53,8.99,4.54,Trending,Afternoon
+VID0234,Technology Review 234 - 2024,Technology,France,3598733,628960,204997,28,5,Friday,99,23.17,17.48,5.7,Viral,Night
+VID0235,Entertainment Funny 235 - 2024,Entertainment,France,4082698,503284,143582,29,15,Saturday,78,15.84,12.33,3.52,Viral,Afternoon
+VID0236,Cooking Baking 236 - 2024,Cooking,South Korea,10590870,1849063,130364,44,6,Sunday,68,18.69,17.46,1.23,Trending,Night
+VID0237,Entertainment Challenge 237 - 2024,Entertainment,Germany,34718936,2092220,1731367,6,23,Tuesday,15,11.01,6.03,4.99,Trending,Evening
+VID0238,Lifestyle Vlog 238 - 2024,Lifestyle,UK,237980,34663,508,44,1,Sunday,37,14.78,14.57,0.21,Medium,Night
+VID0239,Entertainment Prank 239 - 2024,Entertainment,India,4160624,286071,170693,36,3,Sunday,84,10.98,6.88,4.1,Viral,Night
+VID0240,Travel Travel 240 - 2024,Travel,Brazil,2574567,372328,124720,42,14,Monday,21,19.31,14.46,4.84,Viral,Afternoon
+VID0241,Technology Review 241 - 2024,Technology,South Korea,3297081,343330,63115,22,9,Friday,64,12.33,10.41,1.91,Viral,Morning
+VID0242,Technology Tutorial 242 - 2024,Technology,Brazil,48436632,6001725,1097567,19,6,Saturday,32,14.66,12.39,2.27,Trending,Night
+VID0243,Technology News 243 - 2024,Technology,India,3151176,143788,87713,15,14,Sunday,48,7.35,4.56,2.78,Viral,Afternoon
+VID0244,Travel Vlog 244 - 2024,Travel,UK,2302100,212324,123403,9,14,Thursday,84,14.58,9.22,5.36,Viral,Afternoon
+VID0245,News Coverage 245 - 2024,News,US,4713361,140612,24315,44,21,Monday,88,3.5,2.98,0.52,Viral,Evening
+VID0246,Gaming Stream 246 - 2024,Gaming,UK,4897539,174563,258874,21,7,Thursday,95,8.85,3.56,5.29,Viral,Morning
+VID0247,Travel Vlog 247 - 2024,Travel,UK,11577966,1867990,374552,25,16,Monday,25,19.37,16.13,3.24,Trending,Afternoon
+VID0248,Fitness Diet 248 - 2024,Fitness,Germany,10557672,1031152,28683,5,8,Sunday,47,10.04,9.77,0.27,Trending,Morning
+VID0249,Travel Trip 249 - 2024,Travel,India,441794,49992,12835,13,15,Thursday,17,14.22,11.32,2.91,Medium,Afternoon
+VID0250,Travel Trip 250 - 2024,Travel,Brazil,3109021,196763,112728,41,11,Saturday,22,9.95,6.33,3.63,Viral,Morning
+VID0251,News Update 251 - 2024,News,France,2049276,252787,90536,41,5,Thursday,75,16.75,12.34,4.42,Viral,Night
+VID0252,Fitness Workout 252 - 2024,Fitness,Australia,2170002,379720,93897,39,12,Friday,67,21.83,17.5,4.33,Viral,Morning
+VID0253,Technology Unboxing 253 - 2024,Technology,Australia,635589,91154,4519,35,0,Friday,4,15.05,14.34,0.71,High,Night
+VID0254,Lifestyle Hacks 254 - 2024,Lifestyle,Canada,1729325,130732,23671,26,7,Thursday,23,8.93,7.56,1.37,Viral,Morning
+VID0255,Gaming Stream 255 - 2024,Gaming,France,4623682,759764,94386,13,15,Sunday,93,18.47,16.43,2.04,Viral,Afternoon
+VID0256,Cooking Baking 256 - 2024,Cooking,Canada,4453332,546634,64189,42,14,Sunday,87,13.72,12.27,1.44,Viral,Afternoon
+VID0257,Gaming Gameplay 257 - 2024,Gaming,Brazil,5928787,637030,141877,45,18,Sunday,35,13.14,10.74,2.39,Trending,Afternoon
+VID0258,Fitness Fitness 258 - 2024,Fitness,Canada,2695470,84917,148940,18,11,Wednesday,28,8.68,3.15,5.53,Viral,Morning
+VID0259,Fitness Diet 259 - 2024,Fitness,Japan,3176004,240440,160535,28,9,Sunday,31,12.63,7.57,5.05,Viral,Morning
+VID0260,News Analysis 260 - 2024,News,South Korea,2037338,87411,59860,26,17,Thursday,78,7.23,4.29,2.94,Viral,Afternoon
+VID0261,Music Cover 261 - 2024,Music,India,3573079,447265,79142,13,23,Friday,72,14.73,12.52,2.21,Viral,Evening
+VID0262,Technology Review 262 - 2024,Technology,Japan,2049070,239437,106748,7,16,Thursday,46,16.89,11.69,5.21,Viral,Afternoon
+VID0263,Music Song 263 - 2024,Music,US,1444450,248639,56324,13,5,Tuesday,83,21.11,17.21,3.9,Viral,Night
+VID0264,News Coverage 264 - 2024,News,Canada,3723566,610245,209671,18,2,Monday,59,22.02,16.39,5.63,Viral,Night
+VID0265,Education Course 265 - 2024,Education,India,1488466,229019,60940,3,15,Friday,50,19.48,15.39,4.09,Viral,Afternoon
+VID0266,Fitness Training 266 - 2024,Fitness,Brazil,4922857,744994,27307,21,23,Sunday,29,15.69,15.13,0.55,Viral,Evening
+VID0267,Technology Unboxing 267 - 2024,Technology,Canada,3605559,120827,182907,14,13,Tuesday,55,8.42,3.35,5.07,Viral,Afternoon
+VID0268,Entertainment Challenge 268 - 2024,Entertainment,Canada,13342303,1535703,116989,20,18,Saturday,61,12.39,11.51,0.88,Trending,Afternoon
+VID0269,Lifestyle Vlog 269 - 2024,Lifestyle,India,4903667,228158,184513,42,20,Tuesday,38,8.42,4.65,3.76,Viral,Evening
+VID0270,Lifestyle Tips 270 - 2024,Lifestyle,Canada,6192486,1051568,333191,16,0,Thursday,89,22.36,16.98,5.38,Trending,Night
+VID0271,Lifestyle Tips 271 - 2024,Lifestyle,Japan,3915659,195434,134939,16,20,Thursday,60,8.44,4.99,3.45,Viral,Evening
+VID0272,Cooking Recipe 272 - 2024,Cooking,India,46894760,3711255,2725230,41,1,Sunday,89,13.73,7.91,5.81,Trending,Night
+VID0273,News Update 273 - 2024,News,France,2267908,298391,74353,44,14,Sunday,4,16.44,13.16,3.28,Viral,Afternoon
+VID0274,Cooking Recipe 274 - 2024,Cooking,US,1111438,55142,7077,19,18,Friday,80,5.6,4.96,0.64,Viral,Afternoon
+VID0275,Technology Unboxing 275 - 2024,Technology,Australia,1476808,221633,53392,37,22,Thursday,84,18.62,15.01,3.62,Viral,Evening
+VID0276,Technology Comparison 276 - 2024,Technology,Germany,6190366,229642,128968,15,21,Saturday,21,5.79,3.71,2.08,Trending,Evening
+VID0277,Music Remix 277 - 2024,Music,UK,1749621,97313,47996,6,14,Friday,51,8.31,5.56,2.74,Viral,Afternoon
+VID0278,News Report 278 - 2024,News,France,1474483,147584,80065,27,9,Saturday,69,15.44,10.01,5.43,Viral,Morning
+VID0279,Cooking Meal Prep 279 - 2024,Cooking,Australia,4413065,688941,152863,33,14,Tuesday,24,19.08,15.61,3.46,Viral,Afternoon
+VID0280,Gaming Walkthrough 280 - 2024,Gaming,France,19935162,1955952,480517,24,20,Sunday,91,12.22,9.81,2.41,Trending,Evening
+VID0281,Lifestyle Hacks 281 - 2024,Lifestyle,Japan,2855944,126667,139012,5,13,Monday,54,9.3,4.44,4.87,Viral,Afternoon
+VID0282,News Update 282 - 2024,News,US,2947488,158500,103118,25,7,Thursday,96,8.88,5.38,3.5,Viral,Morning
+VID0283,Gaming Walkthrough 283 - 2024,Gaming,Brazil,4228207,161324,24750,23,18,Sunday,98,4.4,3.82,0.59,Viral,Afternoon
+VID0284,Technology News 284 - 2024,Technology,Canada,6042578,378798,119021,9,21,Tuesday,68,8.24,6.27,1.97,Trending,Evening
+VID0285,Music Song 285 - 2024,Music,South Korea,61316021,9185076,2662624,26,22,Thursday,47,19.32,14.98,4.34,Trending,Evening
+VID0286,Lifestyle Routine 286 - 2024,Lifestyle,South Korea,2830862,425164,107783,28,7,Saturday,98,18.83,15.02,3.81,Viral,Morning
+VID0287,Technology News 287 - 2024,Technology,US,18579760,1221310,704581,23,10,Saturday,58,10.37,6.57,3.79,Trending,Morning
+VID0288,Fitness Diet 288 - 2024,Fitness,Canada,362477,32141,16267,7,19,Saturday,4,13.35,8.87,4.49,Medium,Evening
+VID0289,Cooking Baking 289 - 2024,Cooking,US,84589344,13224155,4445666,39,10,Tuesday,94,20.89,15.63,5.26,Trending,Morning
+VID0290,Cooking Meal Prep 290 - 2024,Cooking,Germany,33134985,5724153,1973040,36,3,Wednesday,58,23.23,17.28,5.95,Trending,Night
+VID0291,News Update 291 - 2024,News,US,42124644,1579153,187200,24,22,Sunday,92,4.19,3.75,0.44,Trending,Evening
+VID0292,Education Course 292 - 2024,Education,UK,3107499,470964,140337,37,4,Thursday,65,19.67,15.16,4.52,Viral,Night
+VID0293,Education Course 293 - 2024,Education,France,2684955,95816,74998,19,12,Monday,53,6.36,3.57,2.79,Viral,Morning
+VID0294,Education Tips 294 - 2024,Education,UK,1360941,217328,52719,36,3,Saturday,30,19.84,15.97,3.87,Viral,Night
+VID0295,News Update 295 - 2024,News,Australia,61807770,3526968,1714656,26,9,Monday,73,8.48,5.71,2.77,Trending,Morning
+VID0296,Education Tips 296 - 2024,Education,Canada,4010999,191509,142328,44,6,Wednesday,31,8.32,4.77,3.55,Viral,Night
+VID0297,Technology Unboxing 297 - 2024,Technology,South Korea,55758521,6226324,1971906,18,14,Monday,87,14.7,11.17,3.54,Trending,Afternoon
+VID0298,Gaming Highlights 298 - 2024,Gaming,South Korea,4698735,150863,85790,28,6,Saturday,72,5.04,3.21,1.83,Viral,Night
+VID0299,Lifestyle Tips 299 - 2024,Lifestyle,Canada,801656,83102,10498,35,10,Tuesday,88,11.68,10.37,1.31,High,Morning
+VID0300,News Analysis 300 - 2024,News,South Korea,4826851,453529,161621,5,5,Friday,86,12.74,9.4,3.35,Viral,Night
