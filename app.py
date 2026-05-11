@@ -328,7 +328,12 @@ def health():
         'videos': len(analyzer.df),
         'last_update': analyzer.last_update.isoformat() if analyzer.last_update else None
     })
-
+@app.route('/')
+def home():
+    try:
+        return send_file('index.html')
+    except Exception as e:
+        return str(e)
 @app.route('/api/statistics', methods=['GET'])
 def get_statistics():
     try:
@@ -386,7 +391,8 @@ if __name__ == '__main__':
     print(f"\n📊 Videos: {len(analyzer.df)}")
     print(f"📁 CSV: {analyzer.csv_path}")
     print(f"🔄 Dynamic updates: Every request gets fresh calculations")
-    print(f"\n🚀 Server: http://127.0.0.1:5000")
+   if __name__ == '__main__':
+    app.run(debug=True)
     print("\n📡 Dynamic Endpoints:")
     print("   /api/statistics - Live stats")
     print("   /api/chart-data/<type> - Raw chart data")
