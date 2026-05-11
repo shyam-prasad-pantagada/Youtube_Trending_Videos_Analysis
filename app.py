@@ -385,18 +385,4 @@ def export_data():
 # ============================================
 
 if __name__ == '__main__':
-    print("\n" + "="*70)
-    print("📺 YOUTUBE TRENDING ANALYSIS - DYNAMIC BACKEND")
-    print("="*70)
-    print(f"\n📊 Videos: {len(analyzer.df)}")
-    print(f"📁 CSV: {analyzer.csv_path}")
-    print(f"🔄 Dynamic updates: Every request gets fresh calculations")
-   if __name__ == '__main__':
     app.run(debug=True)
-    print("\n📡 Dynamic Endpoints:")
-    print("   /api/statistics - Live stats")
-    print("   /api/chart-data/<type> - Raw chart data")
-    print("   /api/filter - Dynamic filtering")
-    print("   /api/refresh - Force data refresh")
-    print("\n" + "="*70)
-    app.run(debug=True, host='127.0.0.1', port=5000)
